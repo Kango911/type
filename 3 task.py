@@ -1,3 +1,4 @@
+#Kango911
 # Функция для проверки слова на условия задачи
 def is_symmetric_word(word):
     vowels = "аеёиоуыэюя"

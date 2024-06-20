@@ -1,3 +1,4 @@
+#Kango911
 def calculate_letter_case_percentage(chars):
     total_chars = len(chars)
     if total_chars == 0:
